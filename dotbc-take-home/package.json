@@ -1,0 +1,22 @@
+{
+  "name": "dotbc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@babel/core": "^7.6.2",
+    "babel-node": "^0.0.1-security",
+    "express": "^4.17.1",
+    "json-server": "^0.15.1",
+    "nodemon": "^1.19.3"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
