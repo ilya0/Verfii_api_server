@@ -1,0 +1,214 @@
+{
+	"artists": [
+		{
+			"id": "111123",
+			"name": "Lil Silva",
+			"spotifyId": "2Kv0ApBohrL213X9avMrEn",
+			"genres": [
+				"bass music",
+				"future garage",
+				"uk funky",
+				"vogue"
+			]
+		},
+		{
+			"id": "111223",
+			"name": "Banks",
+			"spotifyId": "2xe8IXgCTpwHE3eA9hTs4n",
+			"genres": [
+				"alternative r&b",
+				"dance pop",
+				"electropop",
+				"indie poptimism",
+				"indie r&b",
+				"indietronica",
+				"pop",
+				"tropical house",
+				"vapor soul"
+			]
+		},
+		{
+			"id": "111333",
+			"name": "Years & Years",
+			"spotifyId": "5vBSrE1xujD2FXYRarbAXc",
+			"genres": [
+				"dance pop",
+				"gauze pop",
+				"pop",
+				"post-teen pop",
+				"tropical house",
+				"uk pop"
+			]
+		},
+		{
+			"id": "111334",
+			"name": "Best Coast",
+			"spotifyId": "5YkBrE0wF8cAlq3GCOw5Eu",
+			"genres": [
+				"folk-pop",
+				"indie pop",
+				"indie rock",
+				"indie surf",
+				"indietronica",
+				"la indie",
+				"metropopolis",
+				"modern rock",
+				"noise pop",
+				"nu gaze"
+			]
+		},
+		{
+			"id": "111338",
+			"name": "Hayley Kiyoko",
+			"spotifyId": "3LjhVl7GzYsza1biQjTpaN",
+			"genres": [
+				"dance pop",
+				"electropop",
+				"indie poptimism",
+				"pop",
+				"post-teen pop"
+			]
+		},
+		{
+			"id": "111339",
+			"name": "Kim Petras",
+			"spotifyId": "",
+			"genres": [
+				"dance pop",
+				"electropop",
+				"escape room",
+				"indie poptimism",
+				"pop",
+				"post-teen pop",
+				"transpop"
+			]
+		},
+		{
+			"id": "111400",
+			"name": "SOPHIE",
+			"spotifyId": "5a2w2tgpLwv26BYJf2qYwu",
+			"genres": [
+				"art pop",
+				"electropop",
+				"escape room",
+				"hyperpop",
+				"indietronica",
+				"pop",
+				"transpop"
+			]
+		},
+		{
+			"id": "111401",
+			"name": "Dorian Electra",
+			"spotifyId": "202HZzqKvPsMHcbwnDZx7u",
+			"genres": [
+				"art pop",
+				"electropop",
+				"escape room",
+				"hyperpop",
+				"strut",
+				"transpop"
+			]
+		}
+    ],
+    
+    "labels": [
+		{
+			"id": "222123",
+      "name": "Harvest Records",
+      "distributor": "Capitol Music Group",
+      "region": "US"
+		},
+		{
+			"id": "222124",
+      "name": "Good Years",
+      "distributor": null,
+      "region":"UK"
+		},
+		{
+			"id": "222126",
+      "name": "Polydor Records",
+      "distributor": "Universal Music Group",
+      "region": "UK"
+		},
+		{
+			"id": "222128",
+      "name": "Atlantic Records",
+      "distributor": "Empire",
+      "region": "US"
+		},
+		{
+			"id": "222129",
+      "name": "BunHead Records",
+      "distributor": null,
+      "region": "US"
+		}
+    ],
+    
+    "releases": [
+        {
+          "title": "The Altar",
+          "release-date": "2016-05-13",
+          "track-count": 13,
+          "upc": "00602547762931",
+          "artists": ["111223"], 
+          "label": "222123", 
+          "type": "album"
+        },
+        {
+          "title": "Goddess",
+          "release-date": "2014-01-01",
+          "track-count": 14,
+          "upc": "00602537546671",
+          "artists": ["111223"], 
+          "label": "222123", 
+          "type": "album"
+        },
+        {
+          "title": "Jimi",
+          "release-date": "2016-05-13",
+          "track-count": 6,
+          "upc": "191018954376",
+          "artists": ["111123"], 
+          "label": "222124", 
+          "type": "album"
+        },
+        {
+          "title": "Work",
+          "release-date": "2013-03-01",
+          "track-count": 1,
+          "upc": "5050580590649",
+          "artists": ["111123", "111223"], 
+          "label": "222123", 
+          "type": "single"
+        },
+        {
+          "title": "California Nights",
+          "release-date": "2015-05-04",
+          "track-count": 12,
+          "upc": "00602547232786",
+          "artists": ["111334"], 
+          "label": "222123",
+          "type": "album"
+        },
+        {
+          "title": "Palo Santo (Deluxe)",
+          "release-date": "2019-02-14",
+          "track-count": 16,
+          "upc": "00602577485695",
+          "artists": ["111333"], 
+          "label": "222126", 
+          "type": "album"
+        },
+        {
+          "title": "Expectations",
+          "release-date": "2018-03-30",
+          "track-count": 13,
+          "upc": "075679881090",
+          "artists": ["111338"], 
+          "label": "222128", 
+          "type": "album"
+        }
+      ]
+
+}
