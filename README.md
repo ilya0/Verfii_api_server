@@ -1,7 +1,10 @@
 # Verfii_api_server
 
-## Running a test server with db
+## Running Server
 
+This file contains both configurations of of a json server wrapped json-server implementation and a standalone json-server implementation
+
+To run standalone json-server implementation
 
 ```
 cd dotbc-take-home
@@ -10,7 +13,7 @@ json-server --watch dbmusic.json
 
 ```
 
-#### Explanation 
+## Explanation 
 
 json-server is a npm package that creates a json server and also crate multiple routes to the "server database"
 
@@ -34,7 +37,7 @@ _like is an operator that can be applied to string properties, it gives the same
 
 
 
-##Rewriting the routes 
+###Rewriting the routes  
 
 json-server allows us to specify route rewrites. We can address this problem by using a map that resolves the actual routes in our json schema:
 
@@ -45,7 +48,7 @@ json-server allows us to specify route rewrites. We can address this problem by 
   "/auth/users": "/users"
 }
 
-##### Extra credit
+## Extra credit
 - Query by multiple artist id's or names 
 
 By using ? then the artists name and a  & you can search with multiple params
@@ -74,7 +77,7 @@ localhost:3000/releases?upc=00602547762931
 
 
 
-# Running app with with node.js
+# V2 - Running app with with node.js  (in progress)
 
 ```
 cd dotbc-take-home
