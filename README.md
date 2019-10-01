@@ -77,15 +77,15 @@ localhost:3000/releases?upc=00602547762931
 
 
 
-# V2 - Running app with with node.js  (in progress)
+# V2 - Running app with with node.js 
 
 ```
 cd dotbc-take-home
-npm install exress --save
-npm install -g json-server
-npm install --save-dev @babel/node
-npm install --save-dev @babel/core
+npm install express --save
+npm install -g json-server --save
+npm install  body-parser --save
 npm install nodemon
-nodemon --exec babel-node server.js
+
+nodemon server.js
 
 ```
